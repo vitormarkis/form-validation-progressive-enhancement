@@ -1,0 +1,6 @@
+{
+  "semi": false,
+  "arrowParens": "avoid",
+  "singleAttributePerLine": true,
+  "trailingComma": "es5"
+}
